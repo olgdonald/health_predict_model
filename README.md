@@ -1,0 +1,2 @@
+Cette IA a pour objectif de déterminer la maladie d’un patient à partir de ses symptômes. J’ai utilisé l’algorithme Random Forest et obtenu des résultats très satisfaisants lors des tests, avec une précision de 95,7 %.
+Vous trouverez une vidéo montrant son intégration dans une application Flutter, ainsi qu’une démonstration en local. Vous pouvez également la tester directement sur votre propre machine
