@@ -1,2 +1,2 @@
 Cette IA a pour objectif de déterminer la maladie d’un patient à partir de ses symptômes. J’ai utilisé l’algorithme Random Forest et obtenu des résultats très satisfaisants lors des tests, avec une précision de 95,7 %.
-Vous trouverez une vidéo montrant son intégration dans une application Flutter (App test.mp4), ainsi qu’une démonstration en local(prediction local.mp4). Vous pouvez également la tester directement sur votre propre machine
+Vous trouverez une vidéo montrant son intégration dans une application Flutter (App test.mp4), ainsi qu’une démonstration en local(prediction local.mp4). Vous pouvez également la tester directement sur votre propre machine avec le fichier modele_predict.py en utilisant les symptomes de la liste.
